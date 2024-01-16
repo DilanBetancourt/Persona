@@ -26,4 +26,4 @@ public class Estudiante extends Persona {
         return String.format("Estudiante (Nombre: %s, Email: %s, Edad: %s, Nivel: %d, Carrera: \"%s\")",
                              getNombre(), emailStr, edadStr, nivel, carrera);
     }
-}
+} 
